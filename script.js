@@ -38,4 +38,3 @@ document.addEventListener('DOMContentLoaded', (event) => {
         window.open(url, '_blank'); // Open the link in a new tab
     });
 });
-
